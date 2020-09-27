@@ -86,7 +86,7 @@ img {
 .right {
 	width: 400px;
 	float:left;
-	margin-left: 0px;
+	margin-left: 15px;
 	margin-top: 30px;
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 	font-size: 22px;
