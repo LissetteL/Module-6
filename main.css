@@ -44,7 +44,7 @@ list-style-type: none;
 }
 
 nav li{
-	display: inline;
+
 	float: left;
 }
 
@@ -55,7 +55,6 @@ nav a:link {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 	color: greenyellow;
 	text-decoration: none;
-	margin-right: 20px;
 	display: block;
   text-align: center;
   padding: 14px 16px;
